@@ -51,7 +51,7 @@ echo new class
     private function main() : string
     {
         return '
-        <main> Hello Kalyani....Welcome to Demo Home Page. For Code Deploy..
+        <main> Hello Kalyani....Welcome to Demo Home Page. For AWS Beanstalk..
     </main>';
     }
     private function foot() : string
