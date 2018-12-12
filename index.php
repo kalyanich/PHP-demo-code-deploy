@@ -51,7 +51,7 @@ echo new class
     private function main() : string
     {
         return '
-        <main> Hello Kalyani....Welcome to Demo Home Page.
+        <main> Hello Kalyani....Welcome to Demo Home Page..Git changes detected.
     </main>';
     }
     private function foot() : string
