@@ -51,7 +51,7 @@ echo new class
     private function main() : string
     {
         return '
-        <main> Hello Kalyani....Welcome to Demo Home Page. For AWS Beanstalk..GitHub Changes detected on Beanstalk.
+        <main> Hello Kalyani....Welcome to Demo Home Page.
     </main>';
     }
     private function foot() : string
